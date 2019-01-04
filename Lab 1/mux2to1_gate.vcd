@@ -1,0 +1,58 @@
+$date
+	Sun Nov 18 08:38:14 2018
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module mux2to1_test $end
+$var wire 1 ! Out $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ select $end
+$scope module mux $end
+$var wire 1 " A $end
+$var wire 1 # B $end
+$var wire 1 ! Out $end
+$var wire 1 % c $end
+$var wire 1 & d $end
+$var wire 1 ' e $end
+$var wire 1 $ select $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0'
+0&
+x%
+x$
+1#
+0"
+0!
+$end
+#2
+0%
+1$
+#7
+1%
+0$
+#17
+1!
+1'
+0#
+1"
+#32
+0'
+0%
+1&
+1$
+#52
+1'
+1!
+1%
+0&
+0$
+#152
