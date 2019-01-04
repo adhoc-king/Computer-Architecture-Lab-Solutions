@@ -1,2 +1,2 @@
-# computer_architecture_lab_solutions
+# Computer Architecture Lab Solutions
 Computer Architecture Lab Solutions
